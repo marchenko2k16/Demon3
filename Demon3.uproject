@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D8321CC6-4465-1D5A-74EE-1198C62BD94C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Demon3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
